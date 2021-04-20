@@ -38,4 +38,4 @@ root = TreeNode(70, TreeNode(55, TreeNode(13), TreeNode(68)), TreeNode(95, TreeN
 # Output : For k = 3, output = 68
 # Category : Binary Tree
 from examples.bt import kth_smallest as ks
-print(ks.solution(root,3))
+print(ks.solution(root,5))
